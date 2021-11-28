@@ -1,0 +1,7 @@
+node_modules/
+dist/*
+.idea
+.env
+config.json
+__snapshots__/
+yarn-error.log
